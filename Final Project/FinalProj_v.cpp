@@ -1,8 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////          
 // 
 // Author:  Kyra Thomas
-// Email: kdthomas@syr.edu
-// Assignment: Final Project
 // Environment/Compiler: Visual Studio 2019
 // Date: April 15, 2020
 // References:
