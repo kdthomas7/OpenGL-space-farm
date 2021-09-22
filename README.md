@@ -7,7 +7,7 @@ Final project from CIS 425 Computer Graphics, Dr.Baruch, Syracuse University Spr
 - Bezier surfaces
 - Clipping planes
 - Mouse and keyboard input
-- Menues
+- Menus
 - Animation
 - Lighting
 - Textures
