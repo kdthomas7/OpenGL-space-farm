@@ -10,6 +10,7 @@ Final project from CIS 425 Computer Graphics, Dr.Baruch, Syracuse University Spr
 - Menus
 - Animation
 - Lighting
+- Emissive materials
 - Textures
 
 ## Screenshots
