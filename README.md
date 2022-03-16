@@ -9,6 +9,7 @@ Final project from CIS 425 Computer Graphics, Dr.Baruch, Syracuse University Spr
 - Mouse and keyboard input
 - Menus
 - Animation
+- Physics
 - Lighting
 - Emissive materials
 - Textures
